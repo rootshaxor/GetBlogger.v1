@@ -42,6 +42,7 @@ Clone post blog di [Blogger](https://blogger.com) , bisa di blog pribadi maupun 
 1. Buka [Blogger](https://blogger.com) 
 2. Login dengan akun anda
 3. Pilih pada `Settings >> Other >> Import Content`
+4. Selanjutnya Pilih file `.xml` dari output `getBlogger` 
 
 ### Author
 
