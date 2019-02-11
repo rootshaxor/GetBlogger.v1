@@ -34,8 +34,14 @@ Clone post blog di [Blogger](https://blogger.com) , bisa di blog pribadi maupun 
 3. Menjadikan file `.go` menjadi executable 
     ```
     gopher@localhost:~# go build -o getblogger main.go
+
     ``` 
 
+### Import
+
+1. Buka [Blogger](https://blogger.com) 
+2. Login dengan akun anda
+3. Pilih pada `Settings >> Other >> Import Content`
 
 ### Author
 
