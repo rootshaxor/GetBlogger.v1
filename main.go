@@ -1,5 +1,13 @@
 package main
 
+/*
+
+   Name : Erwin Kurniawan
+   Mail : rootshaor@gmail.com
+   Web  : https://rootshaxor.github.io
+   Fb   : https://facebook.com/rootshaxor
+*/
+
 import (
 	"flag"
 	"fmt"
